@@ -8,7 +8,7 @@
 
 ## Preface
 
-While an undergrad at M.I.T., I became aware of the ignorance, apathy and powerlessness expressed and/or felt by much of the society, and decided to do something about it. Perhaps due to the fact that I was so immersed in the process of learning my intial plan was to educate the world.
+While an undergrad at M.I.T., I became aware of the ignorance, apathy and powerlessness expressed and/or felt by much of the society, and decided to do something about it. Perhaps due to the fact that I was so immersed in the process of learning my initial plan was to educate the world.
 
 There was folly and perhaps a bit of hubris in this idea, partly because much of the world often appears not to desire further education, but more importantly, a single source of information could easily devolve into fascism.
 
@@ -22,13 +22,13 @@ _NewsPeek_ combined the seemingly limitless information resources of Mead Data C
 
 ----
 
-## Acknowlegements
+## Acknowledgements
 
-This thesis was not created in a vacuum but rather at the M.I.T. Architecture Machine Group, an inter-disciplinary multi-media laboratory extending the reach of computers into people's lives for the first time. Arch Mac's director, Nicholas Negroponte, Walter Bender, then a graduate student and later the executive director of the Media Lab, and Andrew Lippman, a professor focusing on the future of TV while I was focusing on the future of the newspaper, all provided encouragement and pushed me to explore the edges. Without their support and the fertile atmosphere they created within the walls of Arch Mac, _NewsPeek_ would not have been created.
+This thesis was not created in a vacuum but rather at the M.I.T. Architecture Machine Group, an interdisciplinary multi-media laboratory extending the reach of computers into people's lives for the first time. Arch Mac's director, Nicholas Negroponte, Walter Bender, then a graduate student and later the executive director of the Media Lab, and Andrew Lippman, a professor focusing on the future of TV while I was focusing on the future of the newspaper, all provided encouragement and pushed me to explore the edges. Without their support and the fertile atmosphere they created within the walls of Arch Mac, _NewsPeek_  would not have been created.
 
-I also drew ideas and methodologies from my work at the M.I.T. Artificial Intelligence Lab, and from interactions with its professors including Marvin Minsky, Seymour Papert, Gerry Sussman, Carl Hewitt and Richard Stallman among many others. The AI Lab was an awsome place in the late seventies and I was fortunate to be a part of it.
+I also drew ideas and methodologies from my work at the M.I.T. Artificial Intelligence Lab, and from interactions with its professors including Marvin Minsky, Seymour Papert, Gerry Sussman, Carl Hewitt and Richard Stallman among many others. The AI Lab was an awesome place in the late seventies and I was fortunate to be a part of it.
 
-Finally, special thanks to Rocky Grober for typing by thesis as I scribbled it down on paper.
+Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it down on paper.
 
 =Fen Labalme
 
