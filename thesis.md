@@ -372,7 +372,7 @@ page.\]
 
 ### Sample Image from NewsPeek Display
 
-![](assets/20180706_NewsPeek_Kissinger.jpg){width="6.85in" height="5.25in"}
+![NewsPeek text merged with images pulled from videodisk](assets/20180706_NewsPeek_Kissinger.jpg)
 
 ## Nexis Variable Descriptions
 
