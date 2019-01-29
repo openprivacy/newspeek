@@ -8,13 +8,11 @@
 
 ## Preface
 
-While an undergrad at M.I.T., I became aware of the ignorance, apathy and powerlessness expressed and/or felt by much of the society, and decided to do something about it. Perhaps due to the fact that I was so immersed in the process of learning my initial plan was to educate the world.
+While an undergrad at M.I.T. in the '70s, I was troubled by the ignorance, apathy and powerlessness expressed by much of society and I wanted to do something about it. Perhaps due to the fact that I was so immersed in the process of learning, I came up with the plan to educate the world. There was folly in this idea, partly because much of our society often appears not to desire further education, but more importantly, a single source of information could easily devolve into fascism.
 
-There was folly and perhaps a bit of hubris in this idea, partly because much of the world often appears not to desire further education, but more importantly, a single source of information could easily devolve into fascism.
+While pondering what to do for a Computer Science thesis -- perhaps involving intelligent agents (actors) or dynamic first order logic proof checkers from the Artificial Intelligence Laboratory -- an exciting new piece of hardware arrived at the Architecture Machine Group (or "Arch Mac", later renamed the Arts and Media Technology Center, or the _Media Lab_, for short) where I was spending much of my time. A Mead Data Nexis/Lexis data terminal was installed with access to huge (for the time) quantities of news and information, but with a clunky user interface. Seeing this triggered the realization that providing high quality information to those willing to seek it out would be a key step in my original goal.
 
-While pondering what to do for an interdisciplinary thesis melding concepts from the Artificial Intelligence Laboratory and the Architecture Machine Group (now called the Arts and Media Technology Center, or the _Media Lab_, for short) I came to the realization that providing high quality information to those willing to seek it out (I called such people teachers) would be a key step in my original goal.
-
-Further, the definition of high quality information should be up to the informed choice of each individual consumer. The entire publishing system was going to have to be turned upside down, and as a first step towards this I created a personal newspaper called _NewsPeek_ and designed and built its initial hardware and software as my undergraduate thesis in 1981.
+Further, the definition of high quality information should be up to the informed choice of each individual consumer. The entire publishing system was going to have to be turned upside down with people choosing what they wanted to read, and as a first step towards this I created a personal newspaper called _NewsPeek_ and designed and built a set of hardware and software interfaces to the Nexis terminal as my undergraduate thesis in 1981.
 
 _NewsPeek_ combined the seemingly limitless information resources of Mead Data Corporation's Nexis online news service with large-scale personal computing, artificial intelligence and advanced communications and networking to produce an electronic newspaper which contains high quality news, information and entertainment individualized by and for the user.
 
@@ -22,7 +20,7 @@ _NewsPeek_ combined the seemingly limitless information resources of Mead Data C
 
 ----
 
-## Acknowledgements
+### Acknowledgements
 
 This thesis was not created in a vacuum but rather at the M.I.T. Architecture Machine Group, an interdisciplinary multi-media laboratory extending the reach of computers into people's lives for the first time. Arch Mac's director, Nicholas Negroponte, Walter Bender, then a graduate student and later the executive director of the Media Lab, and Andrew Lippman, a professor focusing on the future of TV while I was focusing on the future of the newspaper, all provided encouragement and pushed me to explore the edges. Without their support and the fertile atmosphere they created within the walls of Arch Mac, _NewsPeek_  would not have been created.
 
