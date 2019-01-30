@@ -34,9 +34,9 @@ Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it d
 
 ## Why two dates?
 
-The _NewsPeek_ concept, hardware and software interfaces to power it, and this thesis were all created in the 1980-1981 year culminating in its completion in August 1981. The author left the thesis in his advisor's office and left for a planned six-to-nine month job in California after which his plan was to return to complete the work as part of a graduate degree. But the California job - and the weather and experiences - were enticing so the task of following up on the degree slid to the back burner.
+The _NewsPeek_ concept, hardware and software interfaces to power it, and this thesis were all created in the 1980-1981 school year culminating in its completion (during the summer term) in August 1981. The author left the thesis in his advisor's office and headed west for a planned six-to-nine month job in California after which he planned to return to extend and complete the work as part of a graduate degree. But the California job - and the weather and life experiences - were enticing so the task of following up on the degree slid to the back burner.
 
-Many years later in 2018 I began the process of getting my already fully written thesis signed. Anne Hunter, Academic Administrator for the EECS Undergraduate and M.Eng. Programs provided invaluable assistance in tracking down decades old course records and graduation requirements, and I was doubly fortunate that Andy Lippman remembered me and my work and offered to be my thesis supervisor and finally read and grade my thesis written 37 years earlier. He gave me an "A" and wrote: _"A prescient project, well done and overdue for appreciation"_.
+Many years later - in 2018 - Fen began the process of getting the already fully written thesis officially signed. Anne Hunter, Academic Administrator for the EECS Undergraduate and M.Eng. Programs, provided invaluable assistance in tracking down decades-old course records and graduation requirements, and I was doubly fortunate that Andy Lippman - still at the Media Lab! - remembered me and my work and offered to be my thesis supervisor. He read the reformatted thesis written 37 years earlier, assigned it an "A" grade and wrote: _"A prescient project, well done and overdue for appreciation"_.
 
 ----
 
