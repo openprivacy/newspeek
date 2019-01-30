@@ -1,4 +1,4 @@
-# NewsPeek
+# NewsPeek - Personalized News in 1981
 
 * _NewsPeek:_ a peek at the news, with homage to George Orwell's _1984_
 
@@ -40,12 +40,15 @@ Many years later in 2018 I began the process of getting my already fully written
 
 ----
 
-## The Original 1981 NewsPeek Thesis
+## The 1981 and 2018 NewsPeek Thesis
 
-A scan of the original can be seen here:
+A scan of the original 1981 NewsPeek thesis:
 [NewsPeekThesisOriginalScan.pdf](assets/NewsPeekThesisOriginalScan.pdf)
 
-## Changes from the original in this version
+The reformatted NewsPeek thesis as accepted and signed in 2018:
+[NewsPeekThesisFinal2018.pdf](assets/NewsPeekThesisFinal2018.pdf)
+
+## List of changes from the 1981 original to this 2018 version
 
 ### Entire document:
 * Formatted for Google Docs and Markdown from OCR scan
