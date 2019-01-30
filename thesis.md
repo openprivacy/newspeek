@@ -272,7 +272,7 @@ There are three major parts to the design of the interface:
    Architecture Machine Group's Interdata 3220 or 3230 computers running the MagicSix
    Operating System.
 
-2. The Nexis daemon and I/O buffers. A special free-running process known around MIT as a
+2. The Nexis daemon and I/O buffers. A special free-running process (known around MIT as a
    daemon) has been designed to handle the allocation of communication, i.e. telephone,
    lines, buffering, formatting and transmitting of user requests (queuing them until a
    free line can be found) buffering returned page information, and signalling the

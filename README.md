@@ -48,10 +48,38 @@ A scan of the original 1981 NewsPeek thesis:
 The reformatted NewsPeek thesis as accepted and signed in 2018:
 [NewsPeekThesisFinal2018.pdf](assets/NewsPeekThesisFinal2018.pdf)
 
+### A few excerpts from the thesis
+
+> ...it would be an extension of both the television set and the telephone, facilitating a
+> bi-directional interchange of data.
+
+> This exciting prospect, that of being able to transmit a reply to an article or make a
+> statement on an issue, as well as receive information from a greater variety of sources,
+> will help to open up a whole new world of learning and information.
+
+> However, a tool which can provide unlimited access to informational resources can be
+> used as well as terribly abused. ... there are several important issues which should be
+> kept in mind during the design of a large scale integrated system.
+>
+> * Private information, e.g., personal letters sent by means of an electronic mail, must
+>   be guaranteed private and untappable. \[note: This can be accomplished using current,
+>   state-of-the-art public key encryption methods.\]
+> 
+> * No single interest group, such as the government, military, or private corporation,
+>   should have the ability to control the flow of information on the system, or have any
+>   influence upon what is and what is not generally available.
+>
+> All of these guidelines should be completely adhered to or we lay ourselves bare to
+> manipulation and exploitation for the good of some special interest group. As people
+> begin to learn how to use the system for learning and dissemination of information, and
+> with these precepts as a foundation, we will be able to move towards a better informed
+> public, decentralization of decision making, and perhaps a more coherent public policy
+> along socially useful lines.
+
 ## List of changes from the 1981 original to this 2018 version
 
 ### Entire document:
-* Formatted for Google Docs and Markdown from OCR scan
+* Formatted for Google Docs and Markdown from OCR scan of printed original
 * Formatting of Nexis commands in monotype font
 
 ### Title page:
@@ -62,10 +90,15 @@ The reformatted NewsPeek thesis as accepted and signed in 2018:
 * Andrew Lippman added as Thesis Supervisor for 2018 signature
 
 ### Spelling corrections:
-| original mis-spelling | corrected spelling |
-|-----------------------|--------------------|
-| horizens              | horizons           |
-| anly                  | only               |
-| dirict                | direct             |
-| Kissenger             | Kissinger          |
-| facillitate           | facilitate         |
+| original misspelling | corrected spelling |
+|----------------------|--------------------|
+| wth                  | with               |
+| subsantial           | substantial        |
+| horizens             | horizons           |
+| anly                 | only               |
+| dirict               | direct             |
+| Kissenger            | Kissinger          |
+| facillitate          | facilitate         |
+
+### Other changes:
+* added opening parenthesis to "(known around MIT as a daemon)"
