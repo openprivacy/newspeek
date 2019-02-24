@@ -52,9 +52,9 @@ _NewsPeek_ combined the seemingly limitless information resources of Mead Data C
 
 This thesis was not created in a vacuum but rather at the M.I.T. Architecture Machine Group, an interdisciplinary multi-media laboratory extending the reach of computers into people's lives for the first time. Arch Mac's director, Nicholas Negroponte; Walter Bender, then a graduate student and later the executive director of the Media Lab; and Andrew Lippman, a professor focusing on the future of TV while I was focusing on the future of the newspaper, all provided encouragement and pushed me to explore the edges. Without their support and the fertile atmosphere they created within the walls of Arch Mac, _NewsPeek_  would not have been created.
 
-I also drew ideas and methodologies from my work at the M.I.T. Artificial Intelligence Lab, and from interactions with its professors including Marvin Minsky, Seymour Papert, Gerry Sussman, Carl Hewitt and Richard Stallman among many others. The AI Lab was an awesome place in the late seventies and I was fortunate to be a part of it.
+I also drew ideas and methodologies from my work at the M.I.T. Artificial Intelligence Lab, and from interactions with its professors including Marvin Minsky, Seymour Papert, Gerry Sussman, Hal Abelson, Carl Hewitt and Richard Greenblatt along with Richard Stallman and many others. The AI Lab was an awesome place in the late seventies and I was fortunate to be a part of it.
 
-Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it down on paper.
+Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it down on paper before heading out to California.
 
 =Fen Labalme
 
