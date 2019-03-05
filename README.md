@@ -6,7 +6,7 @@
 
 * _NewsPeek:_ pre-Internet social media featuring _personalization with privacy_
 
-## Key excerpts from the thesis introduction
+## Key excerpts from the 1981 _NewsPeek_ thesis introduction
 
 > ...it would be an extension of both the television set and the telephone, facilitating a
 > bi-directional interchange of data.
@@ -78,7 +78,7 @@ Many years later - in 2018 - Fen began the process of getting the already fully 
 
 ### List of changes from the 1981 original to the 2018 version
 
-*The thesis that was signed in 2018 was identical to what was originally written and submitted in 1981 with only formatting and spelling changes as detailed below.*
+*The thesis that was signed in 2018 is identical to what was written and originally submitted in 1981 with only formatting and spelling changes as detailed below.*
 
 #### Entire document:
 * Formatted for Google Docs and Markdown from OCR scan of printed original
