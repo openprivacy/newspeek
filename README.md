@@ -65,7 +65,7 @@ Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it d
 A scan of the original 1981 _NewsPeek_ thesis:
 [NewsPeekThesisOriginalScan.pdf](assets/NewsPeekThesisOriginalScan.pdf)
 
-The reformatted _NewsPeek_ thesis as accepted and signed in 2018:
+The reformatted _NewsPeek_ thesis as accepted and [signed](assets/20180827_NewsPeek_Signatures.pdf) in 2018:
 [NewsPeekThesisFinal2018.pdf](assets/NewsPeekThesisFinal2018.pdf)
 
 The [_NewsPeek_ Thesis](thesis.md) from this repository (easiest to read)
