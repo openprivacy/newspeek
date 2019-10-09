@@ -60,15 +60,13 @@ Finally, special thanks to Rocky Grober for typing my thesis as I scribbled it d
 
 ----
 
-## The 1981 and 2018 NewsPeek Thesis
+## The 1981 NewsPeek Thesis (reformatted in 2018)
 
-A scan of the original 1981 _NewsPeek_ thesis:
-[NewsPeekThesisOriginalScan.pdf](assets/NewsPeekThesisOriginalScan.pdf)
-
-The reformatted _NewsPeek_ thesis as accepted and [signed](assets/20180827_NewsPeek_Signatures.pdf) in 2018:
+* [The Design and Implementation of _NewsPeek_ : An Interactive News Gatherer for Future Communications Systems](thesis.md) (reformatted for this repository)
+* The _NewsPeek_ thesis as accepted and [signed](assets/20180827_NewsPeek_Signatures.pdf) in 2018:
 [NewsPeekThesisFinal2018.pdf](assets/NewsPeekThesisFinal2018.pdf)
-
-The [_NewsPeek_ Thesis](thesis.md) from this repository (easiest to read)
+   * Also available from [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/121647) at URI: <https://hdl.handle.net/1721.1/121647>
+* A scan of the original 1981 (paper) _NewsPeek_ thesis: [NewsPeekThesisOriginalScan.pdf](assets/NewsPeekThesisOriginalScan.pdf)
 
 ### Why two dates?
 
